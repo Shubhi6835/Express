@@ -1,0 +1,15 @@
+{
+  "name": "expressjsdemo",
+  "version": "1.0.0",
+  "description": "Learning Expressjs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Rawat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
